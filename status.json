@@ -1,3 +1,5 @@
 {
-  "isPortalUp": true
+  "isPortalUp": false,
+  "message": "**Sorry, we seem to have encountered an error.**\n\nWe’re having trouble reaching the NSW Spatial Collaboration Portal right now.\nYou may find some of the datasets aren’t available.\n\nIf you can’t access the data you want, you can try:\n\n- Refreshing the page\n- Coming back in approximately 30 minutes\n\nWe’re sorry for the inconvenience!",
+  "title": "Spatial Collaboration Portal Unavailable"
 }
